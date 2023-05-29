@@ -6,5 +6,5 @@ msg = "Hello" +  name + "!"
 print(msg)
 
 print(type(input))
-#print('Hola Pyhton Gooood Moorning - aaaaaaaa')
+#print('Hola Pyhton Gooood Moorning - aaaaNNNbb')
 
